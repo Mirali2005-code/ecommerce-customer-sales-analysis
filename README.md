@@ -31,6 +31,15 @@ Build an end-to-end analytics solution to:
 * Source: Kaggle Online Retail Dataset
 * Contains transactions, customers, products, and geography
 
+Due to GitHub size limits, full datasets are hosted externally.
+
+🔗 Raw Dataset:
+https://drive.google.com/[your-raw-link](https://drive.google.com/file/d/1H29i5DOGC-tFWHDbeEVB1-nbGag9EV47/view?usp=drive_link)
+
+🔗 Cleaned Dataset:
+https://drive.google.com/[your-cleaned-link](https://drive.google.com/file/d/1H29i5DOGC-tFWHDbeEVB1-nbGag9EV47/view?usp=drive_link)
+
+📌 Sample datasets are available in the `/data` folder.
 ---
 
 ## 🧹 Data Preparation (Python)
