@@ -114,7 +114,7 @@ Performed using **Pandas**:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](IMP/dashboard.png)
+![Dashboard](Pictures/Saved Pictures/IMP/dashboard.png)
 
 ---
 
